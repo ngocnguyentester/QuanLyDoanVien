@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{19667CA6-3538-402B-A9D9-B23112D76B77}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLiNhanSu</RootNamespace>
+    <AssemblyName>QuanLiNhanSu</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.2.0.123\lib\net461\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="QRCoder">
+      <HintPath>D:\DoAnLTQL\BC_Nhom\ChuDe6_Bar_QR_Code\BaoCao_Nhom\ThaoLuanNhom6\packages\QRCoder.1.4.3\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Chuc_Danh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chuc_Danh.Designer.cs">
+      <DependentUpon>Chuc_Danh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Const.cs" />
+    <Compile Include="CSDL_BUS.cs" />
+    <Compile Include="DanhSachTaiKhoan.cs" />
+    <Compile Include="DAO\TaiKhoanDAO.cs" />
+    <Compile Include="DUNGCHUNG\CSDL.cs" />
+    <Compile Include="DUNGCHUNG\HeThong.cs" />
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dan_Toc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dan_Toc.Designer.cs">
+      <DependentUpon>Dan_Toc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataProvider.cs" />
+    <Compile Include="DangKyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangKyForm.Designer.cs">
+      <DependentUpon>DangKyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlManager.cs" />
+    <Compile Include="Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start.Designer.cs">
+      <DependentUpon>Start.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TaiKhoan.cs" />
+    <Compile Include="Tao_MaQR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tao_MaQR.Designer.cs">
+      <DependentUpon>Tao_MaQR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Xep_Loai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Xep_Loai.Designer.cs">
+      <DependentUpon>Xep_Loai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doan_Vien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doan_Vien.Designer.cs">
+      <DependentUpon>Doan_Vien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chi_Doan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chi_Doan.Designer.cs">
+      <DependentUpon>Chi_Doan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhuongThuc.cs" />
+    <Compile Include="QL_NhanSu_Dataset.cs">
+      <DependentUpon>QL_NhanSu_Dataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QL_NhanSu_Dataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QL_NhanSu_Dataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Trang_chu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trang_chu.Designer.cs">
+      <DependentUpon>Trang_chu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Khoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khoa.Designer.cs">
+      <DependentUpon>Khoa.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Chuc_Danh.resx">
+      <DependentUpon>Chuc_Danh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dan_Toc.resx">
+      <DependentUpon>Dan_Toc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangKyForm.resx">
+      <DependentUpon>DangKyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start.resx">
+      <DependentUpon>Start.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tao_MaQR.resx">
+      <DependentUpon>Tao_MaQR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Xep_Loai.resx">
+      <DependentUpon>Xep_Loai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doan_Vien.resx">
+      <DependentUpon>Doan_Vien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chi_Doan.resx">
+      <DependentUpon>Chi_Doan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trang_chu.resx">
+      <DependentUpon>Trang_chu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Khoa.resx">
+      <DependentUpon>Khoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QL_NhanSu_Dataset.xsc">
+      <DependentUpon>QL_NhanSu_Dataset.xsd</DependentUpon>
+    </None>
+    <None Include="QL_NhanSu_Dataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QL_NhanSu_Dataset.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="QL_NhanSu_Dataset.xss">
+      <DependentUpon>QL_NhanSu_Dataset.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Search 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HuyHieuDoan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\App.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thiết kế chưa có tên %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DTO\" />
+    <Folder Include="SqlSeverTypes\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,86 @@
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe.config
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.pdb
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.AssemblyReference.cache
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.SuggestedBindingRedirects.cache
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Nhan_Vien.resources
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Trang_chu.resources
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Properties.Resources.resources
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.GenerateResource.cache
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.CoreCompileInputs.cache
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.exe
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.pdb
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Luong.resources
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Phong_Ban.resources
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Chuc_Vu.resources
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Dan_Toc.resources
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Trinh_Do_Chuyen_Mon.resources
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\Dapper.dll
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\Dapper.xml
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.CopyComplete
+D:\DO AN LT.NET\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Dang_Nhap.resources
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe.config
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.pdb
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\Dapper.dll
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\Dapper.xml
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.AssemblyReference.cache
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.SuggestedBindingRedirects.cache
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Chuc_Vu.resources
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Dang_Nhap.resources
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Dan_Toc.resources
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Luong.resources
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Nhan_Vien.resources
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Phong_Ban.resources
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Trang_chu.resources
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Properties.Resources.resources
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Trinh_Do_Chuyen_Mon.resources
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.GenerateResource.cache
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.CoreCompileInputs.cache
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.CopyComplete
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.exe
+D:\Nhom11_To1_CD2_DTH205913_DaoHoaNu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.pdb
+E:\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe.config
+E:\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe
+E:\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.pdb
+E:\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\Dapper.dll
+E:\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\Dapper.xml
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.AssemblyReference.cache
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.SuggestedBindingRedirects.cache
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Chuc_Vu.resources
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Dang_Nhap.resources
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Dan_Toc.resources
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Trang_chu.resources
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Properties.Resources.resources
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.GenerateResource.cache
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.CoreCompileInputs.cache
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.CopyComplete
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.exe
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.pdb
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Xep_Loai.resources
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Doan_Vien.resources
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Chi_Doan.resources
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Khoa.resources
+E:\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.frmStart.resources
+E:\QuanLiDoanVien\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe.config
+E:\QuanLiDoanVien\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe
+E:\QuanLiDoanVien\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.pdb
+E:\QuanLiDoanVien\QuanLiNhanSu\bin\Debug\Dapper.dll
+E:\QuanLiDoanVien\QuanLiNhanSu\bin\Debug\Dapper.xml
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.AssemblyReference.cache
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.SuggestedBindingRedirects.cache
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Chuc_Vu.resources
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Dang_Nhap.resources
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Dan_Toc.resources
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.frmStart.resources
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Xep_Loai.resources
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Doan_Vien.resources
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Chi_Doan.resources
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Trang_chu.resources
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Properties.Resources.resources
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Khoa.resources
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.GenerateResource.cache
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.CoreCompileInputs.cache
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.CopyComplete
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.exe
+E:\QuanLiDoanVien\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.pdb
